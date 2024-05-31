@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=DOU+DIU)](https://git.io/typing-svg)
+
 ### ⚡ 我的技术栈 | My Tech Stack
 
 * ![systemverilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![c](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) 
@@ -7,7 +9,6 @@
 
 
 <p align="center">
-<!-- https://github.com/DOUDIU/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DOUDIU&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 </p>
 
