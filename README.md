@@ -7,8 +7,3 @@
 * ![vivado](https://img.shields.io/badge/Questa-Sim-orange) ![vivado](https://img.shields.io/badge/-Vivado-green.svg?logo=amd&logoColor=ffffff) ![quartus](https://img.shields.io/badge/-Quartus-blue.svg?logo=intel&logoColor=ffffff) ![lceda](https://img.shields.io/badge/-立创EDA-5070F0.svg)
 
 
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DOUDIU&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-</p>
-
